@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Lessonfuse</title>
+    <link>https://lessonfuse.com/blog/authors/</link>
+    <description>Recent content in Authors on Lessonfuse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Oct 2023 18:05:55 +0300</lastBuildDate><atom:link href="https://lessonfuse.com/blog/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://lessonfuse.com/blog/authors/admin/</link>
+      <pubDate>Sun, 22 Oct 2023 18:05:55 +0300</pubDate>
+      
+      <guid>https://lessonfuse.com/blog/authors/admin/</guid>
+      <description>Articles written by The team behind lessonfuse</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lessonfuse.com/blog/authors/fauzaan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lessonfuse.com/blog/authors/fauzaan/</guid>
+      <description>Co-Founder of lessonfuse, my articles here will be focused on the technical aspects of the platform. I will be writing about the technical challenges we face and how we solve them.</description>
+    </item>
+    
+  </channel>
+</rss>
